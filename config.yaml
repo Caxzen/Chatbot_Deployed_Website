@@ -1,0 +1,44 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    ajay:
+      email: ajay@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: ajay
+      password: $2b$12$LNVi1AMN/./8g/v7ItTgx.kOTkPzLqOVw.OcyHQNCb3iybDxObf.2
+    ajay1:
+      email: asdasdasdasd@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: dasdasd
+      password: $2b$12$vwZUW9c73wozXvLk/tHbfu6nDLG0CWevJPgGKvtxoZujOQqfuPGKi
+    ajay12:
+      email: asfdasfds@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: sadfsdafas
+      password: $2b$12$NzlglEcZZQ..VV/uwOU6kess0bRPdGXYmHpwicuuTvaf8gvUDAybK
+    ajay123:
+      email: asasdas@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: asdkjasod
+      password: $2b$12$/7qwl0vHxFCgD8w/duCU0eJDBJJXsGyI6AUtzQbP3uTzs10tkuflS
+    caxy:
+      email: sopkdao@gmail.com
+      logged_in: false
+      name: asdopko
+      password: $2b$12$Afp6FL6PO4Rs3VbXlKsI/eJfgBML0Gajb78mV5EiqIu7uN7G/B2BO
+    sadas:
+      email: asdasdasasfdas@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: sadfasasdsa
+      password: $2b$12$IIaLYnYmgNAI9ch/4GZ7QOKwLR2eyTrMShd8IiHEviobYkPFlpfdO
+pre-authorized:
+  emails:
+  - electronagario@gmail.com
